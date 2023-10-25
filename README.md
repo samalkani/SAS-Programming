@@ -2,9 +2,9 @@
 
 Repository of SAS Programs
 
-# Survival Analysis programs
+## Survival Analysis programs
 
-# SAS Clinical trial programming Certification preparation 
+## SAS Clinical trial programming Certification preparation 
 
 * Chapter 2 - Basic Concepts
 * Chapter 4 - Correcting Common Errors
